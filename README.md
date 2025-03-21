@@ -1,5 +1,7 @@
 # docs
 
+[github.io](https://developerdanila.github.io/docs/)
+
 ## Content 
 
 ### General
