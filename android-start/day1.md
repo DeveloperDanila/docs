@@ -11,6 +11,7 @@ Day 1
 - начал курс от [Т-Банка](https://edu.tinkoff.ru/my-activities/courses/stream/8d1be0a8-3ee2-4e0e-afcc-7c0b85dc2beb/program)
 - Установил Android Studio и запустил HelloWorld
 - Заказал книгу Программирование на Kotlin для Android
+- Собираюсь прочитать [Справку по ОС Android Танненбаума](android.pdf)
 
 Фото для затравки
 
