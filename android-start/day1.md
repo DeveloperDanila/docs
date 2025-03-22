@@ -14,4 +14,4 @@ Day 1
 
 Фото для затравки
 
-![Get Started!](img/begin.png)
+![Get Started!](../img/begin.png)
