@@ -7,6 +7,7 @@ Day 1
 Минусы пока вижу в том, что придется попотеть.
 
 ## Сделано сегодня
+- Возобновил прохождение Kotlin-задач на Codewars
 - приобрел курс на [Stepic](https://stepik.org/course/121507/)
 - начал курс от [Т-Банка](https://edu.tinkoff.ru/my-activities/courses/stream/8d1be0a8-3ee2-4e0e-afcc-7c0b85dc2beb/program)
 - Установил Android Studio и запустил HelloWorld
