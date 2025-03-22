@@ -12,6 +12,6 @@ Day 1
 - Установил Android Studio и запустил HelloWorld
 - Заказал книгу Программирование на Kotlin для Android
 
-Фото для затравки
+Картинка для затравки
 
 ![Get Started!](../img/begin.png)
