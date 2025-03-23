@@ -5,7 +5,7 @@ Day 2
 
 ## Сделано сегодня
 - 1 задача на codewars (7kyu пока что)
-- Продолжил проходить курс на [Stepic](https://stepik.org/course/121507/). Выполняю первое дз - Calculator
+- Продолжил проходить курс на [Stepic](https://stepik.org/course/121507/). Выполняю первое дз - Calculator aka [GuessNumber](https://github.com/DeveloperDanila/GuessNumber)
 - Почитал книгу Программирование на Kotlin для Android
 
 Курс
