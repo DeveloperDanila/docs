@@ -14,4 +14,4 @@ Day 2
 
 Книга
 
-![book](../img/begin3.png)
+![book](../img/begin3.jpg)
