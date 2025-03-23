@@ -28,3 +28,4 @@
 6. [Stepik](https://stepik.org/)
 7. [Spring](https://spring.io/)
 8. [Ilya Segalovich - Yandex Owner](https://iseg.ya.ru/)
+9. [Android Developers](https://developer.android.com/)
