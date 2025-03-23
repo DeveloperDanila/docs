@@ -11,6 +11,7 @@
 ### Android Start
 
 1. [Day 1](android-start/day1.md)
+2. [Day 2](android-start/day2.md)
 
 
 ### Избранное с Хабра
