@@ -12,6 +12,13 @@ Day 2
 - Продолжил проходить курс на [Stepic](https://stepik.org/course/121507/). Выполняю первое дз - Calculator aka [GuessNumber](https://github.com/DeveloperDanila/GuessNumber)
 - Почитал книгу Программирование на Kotlin для Android
 
+## Узнал сегодня
+ - Activity - отвечает за один экран
+ - Intent - намерение, нужно для управления экранами
+ - AndroidStudio - мощь. Android - сила. 
+
+## Картинки
+
 Курс
 
 ![in process](../img/begin2.png)
