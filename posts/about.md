@@ -1,3 +1,3 @@
 # About
 
-Kotlin, Java, Android, Coding, Self-Education 
+Kotlin, Java, Coding, Self-Education 
